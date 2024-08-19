@@ -16,8 +16,8 @@
 - 🔧 **Tools**: Visual Studio Code, Sublime, PyCharm, Anaconda, Git, GitHub
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitRDa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitRDa&show_icons=true&theme=gruvbox)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=gruvbox)
 
