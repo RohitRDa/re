@@ -19,4 +19,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=gruvbox)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=gruvbox)
+
